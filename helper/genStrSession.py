@@ -34,6 +34,7 @@ async def genStrSession() -> None:  # pylint: disable=missing-function-docstring
         except UserIsBot:
             doneStr = "successfully printed!"
             print(await userge.export_session_string())
+            print('1')
         print(f"Done !, session string has been {doneStr}")
 
 
