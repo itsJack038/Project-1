@@ -1,5 +1,7 @@
 wget2
 mkvtoolnix
-qbittorrent
+mediainfo
+aria2
+vlc
 tree
 p7zip-full
