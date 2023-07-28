@@ -1,2 +1,2 @@
-git+https://github.com/encode/httpcore.git
-git+https://github.com/telugucartoons1/dnspython.git
+httpcore==0.14.3
+dnspython
