@@ -1,5 +1,5 @@
 python-dotenv
 pyrogram>=2.0.30
 asyncio
-git+https://github.com/telugucartoons1/dnspython.git
+dnspython==2.4.1
 httpcore==0.17.3
