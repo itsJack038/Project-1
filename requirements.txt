@@ -1,2 +1,1 @@
-dnspython==2.2.0
-httpcore==0.17.0
+
